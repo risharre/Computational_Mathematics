@@ -1,2 +1,2 @@
 # Computational_Mathematics
-Computational_Mathematics in MIPT
+Computational_Mathematics at MIPT
